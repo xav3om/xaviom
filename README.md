@@ -14,3 +14,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/xav3om/literate-couscous.git
 git push -u origin master
                 
+
+git remote add origin https://github.com/xav3om/literate-couscous.git
+git push -u origin master
